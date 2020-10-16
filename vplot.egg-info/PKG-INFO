@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: vplot
+Version: 0.1.0
+Summary: Victor's personal plotting parameters
+Home-page: UNKNOWN
+Author: Victor C. Chan
+Author-email: chan@astro.utoronto.ca
+License: UNKNOWN
+Description: # vplot
+        
+        Victor's preferred parameters for plotting
+Platform: UNKNOWN
+Requires-Python: >=3
+Description-Content-Type: text/markdown
